@@ -1,0 +1,16 @@
+{
+  "name": "online-docs-server",
+  "version": "1.0.0",
+  "description": "Server for online public docs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen S",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.5.2",
+    "socket.io": "^4.5.1"
+  }
+}
